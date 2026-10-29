@@ -210,3 +210,7 @@ WordSlide/
 - [Electron 辅助功能](https://www.electronjs.org/docs/latest/tutorial/accessibility)
 
 词典数据的版权、使用范围与费用由各提供方决定；本项目不包含可再分发的商业词库。
+
+## License
+
+项目代码采用 [Apache License 2.0](LICENSE)。第三方词典数据与 API 的访问权限及使用范围仍以各提供方条款为准。
