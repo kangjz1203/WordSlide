@@ -1,0 +1,21 @@
+# Swift build products and local IDE state
+.build/
+.swiftpm/xcode/xcuserdata/
+xcuserdata/
+*.xcuserstate
+
+# Generated applications and release archives
+*.app/
+*.zip
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+
+# Local configuration and private signing material
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.key
